@@ -3,9 +3,19 @@
 	margin:0px;
 	padding:0px:
 }
-body{
-	
-	background-color:#cccccc;
+body {
+  background-color: #cccccc;
+}
+
+a {
+  text-decoration-line: none;
+}
+ul {
+  list-style-type: none;
+}
+
+h1 {
+  text-align: center;
 }
 .main{
 	display:flex;

@@ -17,6 +17,9 @@ ul {
 h1 {
   text-align: center;
 }
+h2 {
+  text-align: center;
+}
 .main{
 	display:flex;
 	flex-direction:column;
